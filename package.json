@@ -1,0 +1,19 @@
+{
+  "name": "astro-icons",
+  "version": "1.0.0",
+  "description": "Icon components for Astro projects",
+  "type": "module",
+  "exports": {
+    "./*": "./dist/*"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "astro",
+    "icons",
+    "components"
+  ],
+  "license": "MIT"
+}
+
